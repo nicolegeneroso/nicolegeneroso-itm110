@@ -1,0 +1,171 @@
+header {
+font-family: "Avenir Next";
+font-size: 12px ;
+
+}
+a{
+  color:#74733f;
+  font-weight:bold;
+  text-decoration: none;
+}
+a:hover{
+  color:#a16262;
+  font-weight: bold;
+  text-decoration: none;
+}
+.topnav {
+  background-color: #ffffff;
+  width: 1154px;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: center;
+  color: #74733f;
+  text-align: center;
+  padding: 14px 114.2px;
+  text-decoration: none;
+  font-size: 13px;
+}
+
+.topnav a:hover {
+  background-color: #302e2d;
+  color: #929292;
+}
+
+.topnav a.active {
+  background-color: #74733f;
+  color: white;
+}
+
+
+
+h1 {
+  background-color: #74733f;
+  width: 500px;
+  color: #ffffff;
+  text-align: "center";
+  font-family: "Avenir Next";
+  font-size: 15px;
+
+}
+
+h2 {
+  background-color: #74733f;
+  width: 600px;
+  color: #ffffff;
+  text-align: "center";
+  font-family: "Avenir Next";
+  font-size: 15px;
+
+}
+
+h3 {
+  background-color: #74733f;
+  width: 500px;
+  color: #ffffff;
+  text-align: "center";
+  font-family: "Avenir Next";
+  font-size: 15px;
+
+}
+
+body {
+font-family: "Avenir Next";
+background-color:#3b1313;
+
+}
+
+.table-striped{
+  color:#000000;
+  text-decoration: none;
+  font-size: 12px;
+  background-color: #ffffff;
+  width: 500px;
+}
+.table-striped a{
+  color:#74733f;
+  font-weight:bold;
+  text-decoration: none;
+}
+.table-striped a:hover{
+  color:#a16262;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+
+.table-striped2{
+  color:#000000;
+  text-decoration: none;
+  font-size: 12px;
+  background-color: #ffffff;
+  width: 600px;
+}
+.table-striped2 a{
+  color:#74733f;
+  font-weight:bold;
+  text-decoration: none;
+}
+.table-striped2 a:hover{
+  color:#a16262;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.product-image2{
+  width:500px;
+}
+
+.index-display{
+  width:1154px;
+}
+
+.index-display hover{
+  width:1154px;
+}
+
+.table-striped3{
+  color:#000000;
+  text-decoration: none;
+  font-size: 12px;
+  background-color: #ffffff;
+  width: 500px;
+}
+.table-striped3 a{
+  color:#74733f;
+  font-weight:bold;
+  text-decoration: none;
+}
+.table-striped3 a:hover{
+  color:#a16262;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.per-product{
+  height:200px;
+}
+
+.bottomnav {
+  background-color: #ffffff;
+  overflow: hidden;
+  float: "center";
+  color: #74733f;
+  text-align: "center";
+  text-decoration: none;
+  font-size: 13px;
+  width: 1155px
+}
+
+a{
+  color:white;
+  font-weight:bold;
+  text-decoration: none;
+}
+a:hover{
+  color:#a16262;
+  font-weight: bold;
+  text-decoration: none;
+}
